@@ -2,7 +2,7 @@
 
 A=`whoami`
 
-if [ $A = "ALU2G" ]
+if [ $A = "manolo" ]
 then
 	echo "Estas utilizando el usario manolo"
 else
